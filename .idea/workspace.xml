@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac642518-332e-4743-a0f5-3eb429d9d8f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/task1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/task1/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/protractor.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/protractor.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/task1.spec.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +41,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Abraham_Arias\Documents\Git\protractorTryOn" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -52,7 +61,7 @@
       <workItem from="1605554291171" duration="155000" />
       <workItem from="1605554601886" duration="4973000" />
       <workItem from="1605578497158" duration="721000" />
-      <workItem from="1605588863036" duration="4145000" />
+      <workItem from="1605588863036" duration="4622000" />
     </task>
     <task id="LOCAL-00001" summary="adding Readme information">
       <created>1605722664919</created>
@@ -61,7 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605722664919</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding Readme information">
+      <created>1605722944232</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605722944232</updated>
+    </task>
+    <task id="LOCAL-00003" summary="refactoring folder structure">
+      <created>1605723149513</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605723149513</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,12 +103,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding Readme information" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding Readme information" />
+    <MESSAGE value="refactoring folder structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactoring folder structure" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1920" y="306" key="Vcs.Push.Dialog.v2" timestamp="1605722666434">
+    <state x="1920" y="306" key="Vcs.Push.Dialog.v2" timestamp="1605723151468">
       <screen x="1920" y="40" width="1536" height="824" />
     </state>
-    <state x="1920" y="306" key="Vcs.Push.Dialog.v2/0.40.1536.824/1920.40.1536.824/3840.0.1440.860@1920.40.1536.824" timestamp="1605722666434" />
+    <state x="1920" y="306" key="Vcs.Push.Dialog.v2/0.40.1536.824/1920.40.1536.824/3840.0.1440.860@1920.40.1536.824" timestamp="1605723151468" />
   </component>
 </project>

@@ -1,6 +1,6 @@
 exports.config = {
     seleniumAddress: 'http://localhost:4444/wd/hub',
-    specs: ['todo-spec.js'],
+    specs: ['task1.spec.js'],
     mochaOpts: {
       reporter: "spec",
       slow: 3000
